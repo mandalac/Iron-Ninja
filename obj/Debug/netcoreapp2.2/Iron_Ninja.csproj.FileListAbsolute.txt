@@ -1,0 +1,11 @@
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/bin/Debug/netcoreapp2.2/Iron_Ninja.deps.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/bin/Debug/netcoreapp2.2/Iron_Ninja.runtimeconfig.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/bin/Debug/netcoreapp2.2/Iron_Ninja.runtimeconfig.dev.json
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/bin/Debug/netcoreapp2.2/Iron_Ninja.dll
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/bin/Debug/netcoreapp2.2/Iron_Ninja.pdb
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/obj/Debug/netcoreapp2.2/Iron_Ninja.csprojAssemblyReference.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/obj/Debug/netcoreapp2.2/Iron_Ninja.csproj.CoreCompileInputs.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/obj/Debug/netcoreapp2.2/Iron_Ninja.AssemblyInfoInputs.cache
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/obj/Debug/netcoreapp2.2/Iron_Ninja.AssemblyInfo.cs
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/obj/Debug/netcoreapp2.2/Iron_Ninja.dll
+/Users/vasilimandalac/Desktop/Coding_Dojo/C_Sharp/OOP /Iron_Ninja/obj/Debug/netcoreapp2.2/Iron_Ninja.pdb
